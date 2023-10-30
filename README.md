@@ -72,7 +72,7 @@ social support, life expectancy, freedom, generosity, and percep-
 
 tions of corruption.
 
-1
+
 
 
 
@@ -105,8 +105,6 @@ questions/hypotheses.
 Sample Size Details
 
 Typically, the annual sample for each country consists of 1,000 people. If a
-
-A
 
 country had surveys each year, the sample size would amount to 3,000.
 
@@ -142,6 +140,5 @@ This analysis is based on the dataset provided by Ajaypal Singh (2021) on
 
 Kaggle.
 
-2
 
 
